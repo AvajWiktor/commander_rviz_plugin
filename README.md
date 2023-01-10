@@ -17,6 +17,6 @@ source install/setup.bash
 rviz2
 ```
  - Load rviz config from config directory
-![alt text](https://github.com/AvajWiktor/commander_rviz_plugin/images/rviz_config.png?raw=true)
+![alt text](https://github.com/AvajWiktor/commander_rviz_plugin/tree/main/images/rviz_config.png?raw=true)
  - Use arrows and velocity scale slider to move Husky
-![alt text](https://github.com/AvajWiktor/commander_rviz_plugin/images/rviz_usage.png?raw=true)
+![alt text](https://github.com/AvajWiktor/commander_rviz_plugin/tree/main/images/rviz_usage.png?raw=true)
