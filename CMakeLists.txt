@@ -36,6 +36,9 @@ ament_auto_add_library(${PROJECT_NAME} SHARED
   src/commander_display.cpp
 )
 
+target_include_directories(${PROJECT_NAME} PRIVATE
+  "${PROJECT_SOURCE_DIR}/include"
+)
 
 pluginlib_export_plugin_description_file(rviz_common plugins_description.xml)
 
@@ -50,4 +53,4 @@ if(BUILD_TESTING)
   ament_lint_auto_find_test_dependencies()
 endif()
 
-#ament_auto_package(INSTALL_TO_SHARE icons)
+ament_auto_package()

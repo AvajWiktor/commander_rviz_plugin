@@ -3,7 +3,7 @@
 <package format="3">
   <name>commander_rviz_plugins</name>
   <version>0.1.0</version>
-  <description>Commander RViz Plugin for Looking Glass</description>
+  <description>Commander RViz Plugin for Husky UGV controlling</description>
   <maintainer email="wiktor.markowski@put.poznan.pl">Wiktor Markowski</maintainer>
   <license>Apache License 2.0</license>
 
