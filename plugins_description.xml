@@ -1,0 +1,9 @@
+<library path="commander_rviz_plugins">
+  <class name="commander_rviz_plugins/Commander"
+         type="commander_rviz_plugins::CommanderDisplay"
+         base_class_type="rviz_common::Display">
+    <description>
+      Renders on Looking Commander.
+    </description>
+  </class>
+</library>
